@@ -1,0 +1,11 @@
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\bin\Debug\TIP,TAX,TOTAL.exe.config
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\bin\Debug\TIP,TAX,TOTAL.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\bin\Debug\TIP,TAX,TOTAL.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.csproj.AssemblyReference.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP_TAX_TOTAL.Form1.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP_TAX_TOTAL.Properties.Resources.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.csproj.GenerateResource.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.csproj.CoreCompileInputs.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\TIP,TAX,TOTAL\TIP,TAX,TOTAL\obj\Debug\TIP,TAX,TOTAL.exe.config
