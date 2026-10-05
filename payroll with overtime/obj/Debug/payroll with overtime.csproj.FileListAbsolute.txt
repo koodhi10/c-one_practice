@@ -1,0 +1,11 @@
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\bin\Debug\payroll with overtime.exe.config
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\bin\Debug\payroll with overtime.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\bin\Debug\payroll with overtime.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.csproj.AssemblyReference.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll_with_overtime.Form1.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll_with_overtime.Properties.Resources.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.csproj.GenerateResource.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.csproj.CoreCompileInputs.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\payroll with overtime\payroll with overtime\obj\Debug\payroll with overtime.exe.config
