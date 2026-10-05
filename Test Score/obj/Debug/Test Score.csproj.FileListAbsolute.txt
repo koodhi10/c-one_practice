@@ -1,0 +1,11 @@
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\bin\Debug\Test Score.exe.config
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\bin\Debug\Test Score.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\bin\Debug\Test Score.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.csproj.AssemblyReference.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test_Score.Form1.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test_Score.Properties.Resources.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.csproj.GenerateResource.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.csproj.CoreCompileInputs.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Test Score\Test Score\obj\Debug\Test Score.exe.config
